@@ -1,7 +1,7 @@
 # Freedom Formula preview
 
-This public repo is the GitHub Pages host for the Freedom Formula Continue-as-demo web export.
+Static Expo web export for FF Design QA.
 
-After Pages is serving, open https://giovanimartin80-tech.github.io/ and tap **Continue as demo**.
+Live: https://giovanimartin80-tech.github.io/
 
-Source: https://github.com/giovanimartin80-tech/freedom-formula (`gh-pages` branch).
+The Expo bundle is hosted on this repo (`_expo/static/js/web/chunks/`). No ZeroDeploy or litterbox.
