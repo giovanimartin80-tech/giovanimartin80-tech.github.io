@@ -1,0 +1,1 @@
+LOAD_FROM_/tmp/push_args_006.json
